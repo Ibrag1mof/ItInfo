@@ -1,0 +1,16 @@
+{
+  "port": 3000,
+  "dbAdr": "mongodb://127.0.0.1:27017/itinfo",
+  "secret": "FaqatMenBilaman",
+  "expire": "10 days",
+  "access_key": "dev123",
+  "refresh_key": "dev123",
+  "access_time": "50m",
+  "refresh_time": "30d",
+  "smtp_host": "smtp.gmail.com",
+  "smtp_port": 507,
+  "smtp_user": "ibragimovsanjar1998@gmail.com",
+  "smtp_password": "dev123",
+  "refresh_ms": 2592000000,
+  "api_url": "http://localhost:3000"
+}

@@ -1,0 +1,21 @@
+<!DOCTYPE html>
+<html lang="en">
+    <%- include("./partials/head.ejs") %>
+<body>
+    <%- include("./partials/nav.ejs") %>
+    <ol class="test">
+        <% ph.forEach((photo)=>{ %>
+        <li id="ilm"><img src="<%= photo %>" alt="ph"></li> 
+    <%   }) %>
+    </ol> 
+    <h2>Gallery</h2>
+</body>
+</html>
+<!-- <script>
+    const activePage = window.location.pathname
+    const navlinks =document.querySelectorAll('nav a').forEach(link=>{
+    if(link.href.includes( `${activePage}`)){
+        link.classList.add('active')
+    }
+})
+</script> -->

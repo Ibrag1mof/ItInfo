@@ -1,0 +1,218 @@
+2022-11-03T05:19:56.006Z [31merror[39m: uncaughtException: routes is not defined
+ReferenceError: routes is not defined
+    at Object.<anonymous> (D:\Code\itinfo\app.js:24:9)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+2022-11-03T06:10:16.713Z error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (D:\Code\itinfo\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:26:5)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+2022-11-03T06:10:36.191Z error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (D:\Code\itinfo\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:26:5)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+2022-11-03T06:11:35.801Z error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (D:\Code\itinfo\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:26:5)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+2022-11-03T06:11:50.975Z error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (D:\Code\itinfo\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:26:5)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+2022-11-03T06:12:27.691Z error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (D:\Code\itinfo\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:26:5)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+2022-11-03T06:13:00.198Z error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (D:\Code\itinfo\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:26:5)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+2022-11-03T06:13:20.933Z error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (D:\Code\itinfo\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:26:5)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+2022-11-03T06:14:52.996Z error: uncaughtException: app.use() requires a middleware function
+TypeError: app.use() requires a middleware function
+    at Function.use (D:\Code\itinfo\node_modules\express\lib\application.js:217:11)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:26:5)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+2022-11-03T06:15:01.736Z error: uncaughtException: expwin is not defined
+ReferenceError: expwin is not defined
+    at Object.<anonymous> (D:\Code\itinfo\app.js:26:9)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Function.executeUserEntryPoint [as runMain] (node:internal/modules/run_main:81:12)
+    at node:internal/main/run_main_module:18:47
+2022-11-03T06:46:58.912Z error: uncaughtException: experessWinston is not defined
+ReferenceError: experessWinston is not defined
+    at Object.<anonymous> (D:\Code\itinfo\middleware\expressWinston.js:29:16)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:19:20)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+2022-11-03T06:48:16.177Z error: uncaughtException: experessWinston is not defined
+ReferenceError: experessWinston is not defined
+    at Object.<anonymous> (D:\Code\itinfo\middleware\expressWinston.js:29:16)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:19:20)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+2022-11-03T06:57:21.963Z error: uncaughtException: timeStamp is not defined
+ReferenceError: timeStamp is not defined
+    at Object.<anonymous> (D:\Code\itinfo\middleware\expressWinston.js:16:26)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:19:20)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+2022-11-03T06:58:01.326Z error: uncaughtException: timeStamp is not defined
+ReferenceError: timeStamp is not defined
+    at Object.<anonymous> (D:\Code\itinfo\middleware\expressWinston.js:16:26)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:19:28)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+2022-11-03T07:00:56.761Z error: uncaughtException: timeStamp is not defined
+ReferenceError: timeStamp is not defined
+    at Object.<anonymous> (D:\Code\itinfo\middleware\expressWinston.js:16:26)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:19:28)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+2022-11-03T07:01:32.944Z error: uncaughtException: timestamp is not defined
+ReferenceError: timestamp is not defined
+    at Object.<anonymous> (D:\Code\itinfo\middleware\expressWinston.js:16:26)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:19:28)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+2022-11-03T07:01:48.035Z error: uncaughtException: timestamp is not defined
+ReferenceError: timestamp is not defined
+    at Object.<anonymous> (D:\Code\itinfo\middleware\expressWinston.js:16:26)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:19:28)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+2022-11-03T07:02:58.688Z error: uncaughtException: json is not defined
+ReferenceError: json is not defined
+    at Object.<anonymous> (D:\Code\itinfo\middleware\expressWinston.js:16:26)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:19:28)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+2022-11-03T07:03:27.037Z error: uncaughtException: combine is not defined
+ReferenceError: combine is not defined
+    at Object.<anonymous> (D:\Code\itinfo\middleware\expressWinston.js:31:11)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:19:28)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+2022-11-03T07:04:52.439Z error: uncaughtException: prettyPrint is not defined
+ReferenceError: prettyPrint is not defined
+    at Object.<anonymous> (D:\Code\itinfo\middleware\expressWinston.js:31:26)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
+    at Module.load (node:internal/modules/cjs/loader:997:32)
+    at Module._load (node:internal/modules/cjs/loader:838:12)
+    at Module.require (node:internal/modules/cjs/loader:1021:19)
+    at require (node:internal/modules/cjs/helpers:103:18)
+    at Object.<anonymous> (D:\Code\itinfo\app.js:19:28)
+    at Module._compile (node:internal/modules/cjs/loader:1119:14)
+    at Module._extensions..js (node:internal/modules/cjs/loader:1173:10)
